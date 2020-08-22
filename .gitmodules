@@ -1,0 +1,3 @@
+[submodule "suibe_fisco_bcos_python_sdk/fb_python_sdk"]
+	path = suibe_fisco_bcos_python_sdk/fb_python_sdk
+	url = https://github.com/FISCO-BCOS/python-sdk.git
